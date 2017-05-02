@@ -45,7 +45,7 @@
       5、开发过程中，采用gulp自动化流程工具，使用gulp-connect等插件实现页面的快速开发。
 
 > 该项目基本为ifms项目的子集，采用的技术方案基本等同。根据需求，对部分页面使用Flex布局、WebScoket实时监听渲染，提升用户体验。通过该项目对WebScoket有了更多的了解，
-最为http协议的"补充"，极大的减轻了服务端的压力，不需要在采用ajax轮询或长链接等方式，节省了服务端的性能。
+作为http协议的"补充"，极大的减轻了服务端的压力，不需要在采用ajax轮询或长链接等方式，节省了服务端的性能。
 
 
 #### XX移动平台A (移动端项目)
@@ -89,7 +89,7 @@
 
 ##### 基于Vue的todoMVC项目 [项目地址]https://github.com/Bimbaloo/todomvc
 - 使用技术： Webpack、nodejs、npm、Vue.js
-- 功能描述：一个机遇Vue.Js的典型的TODOMVC项目
+- 功能描述：一个基于Vue.Js的典型的TODOMVC项目
 
 
 # 技能清单
