@@ -7,6 +7,7 @@
 
 # 个人信息
 * 马燥/男/1994
+* 应聘职位：Web前端开发工程师
 * 本科/计算机科学与技术专业/宁波工程学院
 * 期望职位：Web前端
 * 期望城市：杭州
@@ -83,17 +84,25 @@
 
 # 个人作品
 ##### 天气预报的 node 命令行工具 [项目地址]https://github.com/Bimbaloo/node-weather
-- 使用技术： nodejs、npm
+- 使用技术： node、NPM
 - 功能描述：通过简单命令行实现所在地（可选）的天气情况查询
 
-##### 基于Vue的todoMVC项目 [项目地址]https://github.com/Bimbaloo/todomvc
-- 使用技术： Webpack、nodejs、npm、Vue.js
-- 功能描述：一个基于基于Vue.Js的典型的TODOMVC项目
+##### 基于Vue的todomvc项目 [项目地址]https://github.com/Bimbaloo/todomvc
+- 使用技术： Webpack、node、NPM、VueJs
+- 功能描述：一个基于基于VueJs的典型的TODOMVC项目
 
 
-# 技能清单
+## 擅长技能 
 
-* 前端框架：Bootstrap/VueJS/HTML5
-* 前端工具：Gulp/SaSS/LeSS
-* 版本管理、文档和自动化部署工具：Svn/Git
+* 熟悉HTML(5)/CSS(3)，掌握浮动、定位、盒模型、BFC 等CSS核心概念，掌握常见布局方式，对代码可读性、规范性、语义化有一定认识，对CSS 兼容有一定经验，能熟练开发符合W3C规范的常见页面。
+* 熟悉原生JavaScript的使用，掌握事件模型、DOM 操作、Ajax、JSONP、跨域、闭包、原型链、继承等相关概念的原理和使用方法，能使用原生JS 封装通用函数库，实现诸如轮播、Tab 切换卡、懒加载、Dialog、表单验证、Ajax 等常见效果
+* 熟练jQuery的使用，熟练使用 jQuery 开发常见页面的效果，能够将常见效果封装成 jQuery 插件
+* 对设计模式、编写可复用代码方面有一定经验，可对诸如轮播、Tab 切换卡、懒加载、Dialog等常见效果实现组件化封装
+* 熟悉 Git、Sublime、Vim 等前端相关工具的使用
+* 对前端工程化、模块化有一定认识，能使用 Webpack 实现模块化开发，能使用 NPM、Gulp 打造基本的自动化流程
+* 对前端性能优化有相关经验
+* 熟悉常用Linux 常用命令与配置，能编写简单的bash脚本；
+* 熟悉互联网产品流程、前端开发流程、前后端协同开发流程
+* 对less，sass，node 等有一定了解
+* 超强的自学能力、对前端深厚的兴趣、毅力
 
