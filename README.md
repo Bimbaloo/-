@@ -89,7 +89,7 @@
 
 ##### 基于Vue的todomvc项目 [预览地址]https://bimbaloo.github.io/vue-todomvc/show.html
 - 使用技术： Webpack、node、NPM、VueJs
-- 功能描述：一个基于基于VueJs的典型的TODOMVC项目
+- 功能描述：一个基于基于VueJs的典型的TODOMVC项目.可作为便利贴使用。可以用来记录当天所需任务列表，同时根据完成情况进行分类处理。
 
 
 ## 擅长技能 
