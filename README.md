@@ -87,9 +87,24 @@
 - 使用技术： node、NPM
 - 功能描述：通过简单命令行实现所在地（可选）的天气情况查询
 
-##### 基于Vue的todomvc项目 [预览地址]https://bimbaloo.github.io/vue-todomvc/show.html
+##### 基于Vue的todomvc项目 
+[预览地址]http://mzfs.coding.me/vue-todomvc/show.html  （国内）
+[预览地址]https://bimbaloo.github.io/vue-todomvc/show.html （github） 
+
 - 使用技术： Webpack、node、NPM、VueJs
 - 功能描述：一个基于基于VueJs的典型的TODOMVC项目.可作为便利贴使用。可以用来记录当天所需任务列表，同时根据完成情况进行分类处理。
+
+##### 基于AUI框架的移动端布局 [预览地址]https://bimbaloo.github.io/vue-todomvc/show.html
+- 使用技术：AUI框架（[AUI框架]http://www.auicss.com/)、node、NPM、VueJs  Flex、rem+百分比布局、懒加载
+- 功能描述：使用AUI框架进行一个移动端页面的开发。采用懒加载提高性能
+项目地址 https://coding.net/u/mzfs/p/mobile-terminal/git  （国内）
+         https://github.com/Bimbaloo/mobile-terminal-      （github）
+预览地址 http://mzfs.coding.me/mobile-terminal/src/index.html （国内）  
+         https://bimbaloo.github.io/mobile-terminal-/src/index.html （github）
+
+
+
+
 
 
 ## 擅长技能 
