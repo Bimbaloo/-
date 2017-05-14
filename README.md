@@ -87,7 +87,7 @@
 - 使用技术： node、NPM
 - 功能描述：通过简单命令行实现所在地（可选）的天气情况查询
 
-##### 基于Vue的todomvc项目 [项目地址]https://github.com/Bimbaloo/todomvc
+##### 基于Vue的todomvc项目 [预览地址]https://bimbaloo.github.io/vue-todomvc/show.html
 - 使用技术： Webpack、node、NPM、VueJs
 - 功能描述：一个基于基于VueJs的典型的TODOMVC项目
 
