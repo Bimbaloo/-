@@ -2,10 +2,12 @@
 * 手机：18667879225
 * Email：1030102244@qq.com
 * QQ：1030102244
+* 期望薪资：9-12k
 
 
 # 个人信息
 * 马燥/男/1994
+* 应聘职位：Web前端开发工程师
 * 本科/计算机科学与技术专业/宁波工程学院
 * 期望职位：Web前端
 * 期望城市：杭州
@@ -20,14 +22,12 @@
 
 ##### 负责内容
      负责整个系统的前端架构和总体把握
-      1、设计公司、公司领导等沟通，从视觉效果和技术实现等方面确认最终稿件。
+      1、与设计公司、公司领导等沟通，从视觉效果和技术实现等方面确认最终稿件。
       2、完成左侧菜单页的交互和滚动实现。
       3、完成菜单页和页签的绑定和功能实现。
-      4、采用 float浮动布局和媒体查询，实现页面自适应。
-      5、引入respond.js解决浏览器兼容问题（IE8）
-      6、编写并维护公共JS组件，部分写成插件形式，方便其他同事调用和后期维护
+      4、编写并维护公共JS组件，部分写成插件形式，方便其他同事调用和后期维护
 
-> 在该项目中，唯一的前端工程师，我不但完成了网站界面、交互的开发工作，更采用了新的图片加载和其他资源合并等方式，借助gulp和其插件，实现资源的合并压缩，极大地减少了并大量和请求数，极大的减少了页面渲染时间。经优化后，该系统在首页的加载时间减少了70%-110%（IE8内核下，由原来的2.4S左右减少到1.1S；WebKit内核下由原来的1.6S减少到0.9S左右）。
+> 在该项目中，作为唯一的前端工程师，在完成了网站界面、交互的开发工作的基础上，采用了新的图片加载和其他资源合并等方式，借助gulp和其插件，实现资源的合并压缩，极大地减少了并大量和请求数，极大的减少了页面渲染时间。经优化后，该系统在首页的加载时间减少了70%-110%（IE8内核下，由原来的2.4S左右减少到1.1S；WebKit内核下由原来的1.6S减少到0.9S左右）。
 通过该项目，对网站性能优化有了全新的认识。同时对复杂系统的前端架构有了一定的经验。
 
   
@@ -39,12 +39,12 @@
 
 ##### 负责内容
       1、基本继承IMFS。
-      2、对部分页面采用FLEX和WebSocket。实现效果的同时保证更好的用户体验。 http://dev.sunnyintell.com/ifil/website/lsScene.xckb.xhtml?modulenum=XCKB
+      2、对部分页面采用Flex和WebSocket。实现效果的同时保证更好的用户体验。 http://dev.sunnyintell.com/ifil/website/lsScene.xckb.xhtml?modulenum=XCKB
       3、配合使用mCustomScrollbar插件。在实现表格头部和内容的分离的同时，保持上下和左右滑动都保持完美效果.
       4、编写自定义Dialog插件。保证模态窗的易用性和可维护性。实现代码的复用性。
       5、开发过程中，采用gulp自动化流程工具，使用gulp-connect等插件实现页面的快速开发。
 
-> 该项目基本为ifms项目的子集，采用的技术方案基本等同。根据需求，对部分页面使用Flex布局、WebScoket实时监听渲染，提升用户体验。通过该项目对WebScoket有了更多的了解，
+> 该项目基本为IFMS项目的子集，采用的技术方案基本等同。根据需求，对部分页面使用Flex布局、WebScoket实时监听渲染，提升用户体验。通过该项目对WebScoket有了更多的了解，
 作为http协议的"补充"，极大的减轻了服务端的压力，不需要在采用ajax轮询或长链接等方式，节省了服务端的性能。
 
 
@@ -83,18 +83,49 @@
 
 
 # 个人作品
-##### 天气预报的 node 命令行工具 [项目地址]https://github.com/Bimbaloo/node-weather
-- 使用技术： nodejs、npm
+#### 天气预报的 node 命令行工具 [项目地址]https://github.com/Bimbaloo/node-weather
+- 使用技术： node、NPM
 - 功能描述：通过简单命令行实现所在地（可选）的天气情况查询
 
-##### 基于Vue的todoMVC项目 [项目地址]https://github.com/Bimbaloo/todomvc
-- 使用技术： Webpack、nodejs、npm、Vue.js
-- 功能描述：一个基于Vue.Js的典型的TODOMVC项目
+#### 基于Vue的todomvc项目 
+[预览地址]http://mzfs.coding.me/vue-todomvc/show.html  （国内）体验账号：mazao 123(请不要删除该账号原有信息，谢谢。也可以自己注册账号使用)
+[预览地址]https://bimbaloo.github.io/vue-todomvc/show.html （github） 
+
+- 使用技术： Webpack、node、NPM、VueJs
+#### 功能描述：一个基于基于VueJs的典型的TODOMVC项目.可作为便利贴使用。可以用来记录当天所需任务列表，同时根据完成情况进行分类处理。
+        1、使用第三方平台进行注册登录、保存数据
+        2、输入信息后，回车保存
+        3、根据是否完成分类展示
+        4、清除已完成的全棉布信息
+        5、双击编辑信息
+        6、编辑时按Esc取消编辑
+        7、点击选中行右上角删除
+        8、点击信息左边改变信息状态
+    
+#### 基于AUI框架的移动端布局 [预览地址]https://bimbaloo.github.io/vue-todomvc/show.html
+- 使用技术：AUI框架（[AUI框架]http://www.auicss.com/)、node、NPM、VueJs  Flex、rem+百分比布局、懒加载
+- 功能描述：使用AUI框架进行一个移动端页面的开发。采用懒加载提高性能
+项目地址 https://coding.net/u/mzfs/p/mobile-terminal/git  （国内）
+         https://github.com/Bimbaloo/mobile-terminal-      （github）
+预览地址 http://mzfs.coding.me/mobile-terminal/src/index.html （国内）  
+         https://bimbaloo.github.io/mobile-terminal-/src/index.html （github）
 
 
-# 技能清单
 
-* 前端框架：Bootstrap/VueJS/HTML5
-* 前端工具：Gulp/SaSS/LeSS
-* 版本管理、文档和自动化部署工具：Svn/Git
+
+
+
+## 擅长技能 
+
+* 熟悉HTML(5)/CSS(3)，掌握浮动、定位、盒模型、BFC 等CSS核心概念，掌握常见布局方式，对代码可读性、规范性、语义化有一定认识，对CSS 兼容有一定经验，能熟练开发符合W3C规范的常见页面。
+* 熟悉原生JavaScript的使用，掌握事件模型、DOM 操作、Ajax、JSONP、跨域、闭包、原型链、继承等相关概念的原理和使用方法，能使用原生JS 封装通用函数库，实现诸如轮播、Tab 切换卡、懒加载、Dialog、表单验证、Ajax 等常见效果
+* 熟练jQuery的使用，熟练使用 jQuery 开发常见页面的效果，能够将常见效果封装成 jQuery 插件
+* 对设计模式、编写可复用代码方面有一定经验，可对诸如轮播、Tab 切换卡、懒加载、Dialog等常见效果实现组件化封装
+* 熟悉 Git、Sublime、Vim 等前端相关工具的使用
+* 对前端工程化、模块化有一定认识，能使用 Webpack 实现模块化开发，能使用 NPM、Gulp 打造基本的自动化流程
+* 对前端性能优化有相关经验
+* 熟悉常用Linux 常用命令与配置，能编写简单的bash脚本；
+* 熟悉互联网产品流程、前端开发流程、前后端协同开发流程
+* 对less，sass，node 等有一定了解
+* 超强的自学能力、对前端深厚的兴趣、毅力
 
